@@ -1,5 +1,6 @@
 import datetime
 import threading
+import ffmpeg
 
 import discord.ext.commands
 import spotipy
